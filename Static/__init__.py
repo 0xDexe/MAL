@@ -2,11 +2,11 @@ HEIGHT = 256
 
 WIDTH = 256
 
-PATH_IMG= " "
+PATH_IMG= "C:\\Users\\DELL\\Desktop\\benign"
+
+PATH_IMG_BENIGN="C:\\Users\\DELL\\Desktop\\mal"
 
 PATH_EXE=" "
-
-PATH_IMG_BENIGN=" "
 
 from AttentionNET import *
 from CNN import *
