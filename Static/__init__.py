@@ -8,6 +8,6 @@ PATH_IMG_BENIGN="C:\\Users\\DELL\\Desktop\\mal"
 
 PATH_EXE=" "
 
-from AttentionNET import *
+from ANNmodel import *
 from CNN import *
 from buildNET import *
